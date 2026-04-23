@@ -58,3 +58,34 @@ In this project, we:
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 🔬 Model Evaluation
+
+| Metric        | Purpose                          |
+|--------------|----------------------------------|
+| ROC-AUC      | Model discrimination ability     |
+| KS Statistic | Separation of good vs bad loans  |
+| Gini Score   | Predictive power of model        |
+
+---
+
+## 📈 Key Insights
+
+- Feature engineering significantly improved model performance  
+- WOE-IV helped in selecting highly predictive variables  
+- XGBoost outperformed Logistic Regression in accuracy  
+- Logistic Regression provided better interpretability for risk scoring  
+
+---
+
+## 💡 Business Impact
+
+- Helps banks reduce **default risk**
+- Enables **data-driven loan approval decisions**
+- Improves **credit scoring systems**
+- Supports **regulatory-compliant risk modelling**
+
+---
